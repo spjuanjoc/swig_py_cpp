@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# SWIG
+*.py
+*_wrap*
+/__pycache__
